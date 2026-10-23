@@ -1,4 +1,4 @@
-# いもれこ (imoreco)
+# いもれこ置き場 (imoreco)
 
 PC版 Google AI Studio 向けの非公式 Chrome / Edge ブラウザ拡張機能です。  
 ご自由にお取りください。基本的に最新版をダウンロードすればとりあえず動くはずです。
